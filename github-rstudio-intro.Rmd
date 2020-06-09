@@ -41,4 +41,30 @@ Make another file and make some edit the first one. Go to Git again.
 
 # How can I add this local git repo to Github?
 
+1. Go to github
+2. Create a new repository
+3. Look at the section titled - "…or push an existing repository from the command line"
+4. Open the RStudio "Terminal"
+5. Copy and past the two lines from 3 into the terminal
+
+Now when you commit something, you will see that the "Push" and "Pull" arrows are no longer faded out!
+
+Go ahead and Push!
+
+## Practice with Pushing and Pulling
+
+Make some changes and push them. 
+
+**THEN**, go to the github repo and make some changes there, using the web interface. Commit them. Then go back to your RStudio and Pull.
+
+We can also try to simulate an Error message with Pushing if we don't Pull first.
+
+# Using an already existing Remote (that I have access to)
+
+1. Go to the Github repo that will be your remote (origin) and copy the url
+2. In RStudio, go to the R Projects menu, and select "New Project"
+3. Use the third option, "Version Control"
+
+Here's one we can practice with - https://github.com/mlammens/github_in_rstudio
+
 
