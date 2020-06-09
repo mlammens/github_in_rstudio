@@ -27,3 +27,18 @@ In the project menu, select "Project Options ...". Then select "Git/SVN" and the
 # Practice
 
 Make a new file. Save it. Go to the "Git" tab in the upper left quadrant of RStudio.
+
+Follow this order:
+1. Select your item (Staged) 
+2. Once selected, go to your cart by pressing "Commit" - a new window will open
+3. Buy your item by writing a "Commit message" and selecting "Commit" 
+
+In that window that popped up, you can check your "History". 
+
+## More practice
+
+Make another file and make some edit the first one. Go to Git again.
+
+# How can I add this local git repo to Github?
+
+
