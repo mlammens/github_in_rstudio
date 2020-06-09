@@ -1,3 +1,3 @@
 print("hi from Long Island")
 
-print("do something else")
+print("I miss long island")
