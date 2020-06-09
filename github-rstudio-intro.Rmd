@@ -13,6 +13,15 @@ How do you know?
 * Go to RStudio > Preferences > Git/SVN - are there paths to executables?
     * This can also be checked / setup using Tools > Global Options > Git/SVN
 
+## git setup you might have to do
+
+In RStudio, open the "Terminal" in the lower left quadrant, and execute the following commands (editing as needed!)
+
+```
+git config --global user.name 'Your Name'
+git config --global user.email 'your@email.com'
+```
+
 # Make a new project
 
 Two ways to do this:
@@ -73,5 +82,16 @@ Here's one we can practice with - https://github.com/mlammens/github_in_rstudio
 * Push and Pull so you push your file, and get others
 * Simulate a "Merge Conflict"
 
+# Advance stuff we can go into
 
+* branches
+* Fork a repo, and work from there
+
+
+# Additional resources
+
+* [https://nceas.github.io/oss-lessons/version-control/4-getting-started-with-git-in-RStudio.html](https://nceas.github.io/oss-lessons/version-control/4-getting-started-with-git-in-RStudio.html)
+* [https://jennybc.github.io/2014-05-12-ubc/ubc-r/session03_git.html](https://jennybc.github.io/2014-05-12-ubc/ubc-r/session03_git.html)
+* [https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git-and-SVN](https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git-and-SVN)
+* [https://help.github.com/en/github/using-git/getting-started-with-git-and-github](https://help.github.com/en/github/using-git/getting-started-with-git-and-github)
 
