@@ -1,0 +1,29 @@
+---
+title: "Git/Github in RStudio Intro"
+author: "Matthew E. Aiello-Lammens"
+date: "6/8/2020"
+output: html_document
+---
+
+# Make sure Git is installed
+
+How do you know? 
+
+* Have you installed it?
+* Go to RStudio > Preferences > Git/SVN - are there paths to executables?
+    * This can also be checked / setup using Tools > Global Options > Git/SVN
+
+# Make a new project
+
+Two ways to do this:
+
+1. In upper left corner, click on the +R cube thingy
+2. In upper right corner, click on the project icon (again, the R cube thing) and select "New Project"
+
+# Version control the new project
+
+In the project menu, select "Project Options ...". Then select "Git/SVN" and then "Version Control System" -> "Git"
+
+# Practice
+
+Make a new file. Save it. Go to the "Git" tab in the upper left quadrant of RStudio.
