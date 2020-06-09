@@ -24,7 +24,7 @@ Two ways to do this:
 
 In the project menu, select "Project Options ...". Then select "Git/SVN" and then "Version Control System" -> "Git"
 
-# Practice
+## Practice
 
 Make a new file. Save it. Go to the "Git" tab in the upper left quadrant of RStudio.
 
@@ -66,5 +66,12 @@ We can also try to simulate an Error message with Pushing if we don't Pull first
 3. Use the third option, "Version Control"
 
 Here's one we can practice with - https://github.com/mlammens/github_in_rstudio
+
+## Practice
+
+* Make your own file
+* Push and Pull so you push your file, and get others
+* Simulate a "Merge Conflict"
+
 
 
